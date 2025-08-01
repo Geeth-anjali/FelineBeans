@@ -22,14 +22,8 @@ A simple and responsive website designed for a cat-themed café using HTML, CSS,
    
 3. Open `Feline Beans.html` in your browser.
 
-## 📸 Screenshots
-
-(Add screenshots here later if you want)
-
 ## 🌐 Live Demo
 
-(Not yet hosted — will add link once it’s live)
 
-## 📄 License
 
 Free to use for learning and personal projects.
