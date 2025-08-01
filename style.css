@@ -1,10 +1,32 @@
-.hero-section {
-    background: url("CatThemeCafe.jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: cover;
-    height: 100vh; 
-    opacity: 0.9;
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.header {
+    position: relative;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.header-img {
+    width: 100%;
+    height: auto;
+    display: block  !important;
+}
+
+.header-text {
+    position: absolute;
+    top: 69%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    text-align: center;
+    padding: 20px;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+
 }
 
 .navbar {
